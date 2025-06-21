@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Here I Add Media</title>
+</head>
+
+<body>
+<!--Image-->
+<h1>image</h1>
+<img src="cocophoto.png" width="250" height="200"><br>
+
+<!--Video-->
+<h1>video</h1>
+<video width="200" height="200" controls autoplay poster="hi.jpg">
+    <source src="puppy.mp4" type="video/mp4">
+</video>
+
+<!--Audio-->
+<h1>audio</h1>
+<audio controls>
+    <source src="cat-on-the-piano-135913.mp3" type="audio/mp3">
+</audio>
+
+<!--iFrame-->
+<h1>iframe</h1>
+<iframe src="https://www.youtube.com/embed/lsCOb
+bRG370?autoplay=1&mute=1" height="200" width="200">
+</iframe>
+</body>
+</html>
